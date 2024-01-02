@@ -19,4 +19,3 @@ while True:
     pyautogui.typewrite(k)
     pyautogui.press("Enter")
     time.sleep(1)
-
