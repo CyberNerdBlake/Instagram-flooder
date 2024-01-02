@@ -13,7 +13,7 @@ print("                                                       ")
 print("                                                       ")
 print("#######################################################")
 print()
-sleep.time(5)
+time.sleep(5)
 k = "idc"
 while True:
     pyautogui.typewrite(k)
