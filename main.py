@@ -14,7 +14,6 @@ print("                                                       ")
 print("#######################################################")
 print()
 
-
 k = "idc"
 while True:
     pyautogui.typewrite(k)
